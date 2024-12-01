@@ -6,7 +6,7 @@ function App() {
     <>
       <h1> App </h1>
       <Message></Message>
-      <Message />
+      <Message />   <Message />
       {loggerArrowSynctax('abc')}
     </>
   );
